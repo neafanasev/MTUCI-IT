@@ -1,0 +1,7 @@
+translator/project_env/
+translator/node_modules/
+translator/__pycache__/
+translator/.idea/
+mtuci
+mtuci.pub
+.~lock.mtuci.pub#
